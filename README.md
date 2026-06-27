@@ -26,7 +26,7 @@ The ALU supports multiple arithmetic, logical, shift/rotate, and comparison oper
 The following figure illustrates the overall architecture of the Parametric ALU.
 
 <p align="center">
-<img src="alu_block_diagram.png" width="750">
+<img src="docs/alu_block_diagram.png" width="750">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Generates the following flags:
 Simulation waveform generated using **Xilinx Vivado XSim**.
 
 <p align="center">
-<img src="simulation_waveform.png" width="1000">
+<img src="docs/simulation_waveform.png" width="1000">
 </p>
 
 ---
@@ -105,12 +105,12 @@ Simulation waveform generated using **Xilinx Vivado XSim**.
 Synthesized RTL schematic generated using **Xilinx Vivado**.
 
 <p align="center">
-<img src="schematic.jpg" width="1000">
+<img src="docs/schematic.jpg" width="1000">
 </p>
 
 📄 **High Resolution PDF**
 
-[📥 View RTL Schematic (PDF)](schematic.pdf)
+[📥 View RTL Schematic (PDF)](docs/schematic.pdf)
 
 ---
 
@@ -165,6 +165,5 @@ Interested in:
 - FPGA Design
 - Design Verification
 
----
 
-## ⭐ If you found this project useful, please consider giving it a Star.
+
